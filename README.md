@@ -1,12 +1,12 @@
-#Monty Hall Problem
+# Monty Hall Problem
 
 The monty hall problem is a classic math example.  In this version, we explore what could happen if the host can remove the door with the car.
 
-#Results
+# Results
 
 The results are that there is no benefit to switching. 
 
-#Example Output:
+# Example Output:
 
 Number of games played: 900000
 
